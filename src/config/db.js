@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 const redis = require('redis');
 const logger = require('../utills/logger')
 
+
+let redisClient;
 //Setup MongoDB connection
 const connectMongoDB = async () => {
     try {
