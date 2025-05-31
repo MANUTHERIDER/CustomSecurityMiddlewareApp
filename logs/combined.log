@@ -1,2 +1,219 @@
 2025-05-31 15:30:17 info MongoDb connected successfully
 2025-05-31 15:32:38 info MongoDb connected successfully
+2025-05-31 23:43:28 info MongoDb connected successfully
+2025-05-31 23:43:55 error Error: Cannot set property query of #<IncomingMessage> which has only a getter
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at D:\Work\Express_Secure_App\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+    at processParams (D:\Work\Express_Secure_App\node_modules\router\index.js:582:12)
+    at next (D:\Work\Express_Secure_App\node_modules\router\index.js:291:5)
+    at jsonParser (D:\Work\Express_Secure_App\node_modules\body-parser\lib\types\json.js:100:7)
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+2025-05-31 23:43:55 error Error: Cannot set property query of #<IncomingMessage> which has only a getter
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at D:\Work\Express_Secure_App\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+    at processParams (D:\Work\Express_Secure_App\node_modules\router\index.js:582:12)
+    at next (D:\Work\Express_Secure_App\node_modules\router\index.js:291:5)
+    at jsonParser (D:\Work\Express_Secure_App\node_modules\body-parser\lib\types\json.js:100:7)
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+2025-05-31 23:45:14 error Error: Cannot set property query of #<IncomingMessage> which has only a getter
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at D:\Work\Express_Secure_App\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+    at processParams (D:\Work\Express_Secure_App\node_modules\router\index.js:582:12)
+    at next (D:\Work\Express_Secure_App\node_modules\router\index.js:291:5)
+    at jsonParser (D:\Work\Express_Secure_App\node_modules\body-parser\lib\types\json.js:100:7)
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+2025-05-31 23:45:14 error Error: Cannot set property query of #<IncomingMessage> which has only a getter
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at D:\Work\Express_Secure_App\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+    at processParams (D:\Work\Express_Secure_App\node_modules\router\index.js:582:12)
+    at next (D:\Work\Express_Secure_App\node_modules\router\index.js:291:5)
+    at jsonParser (D:\Work\Express_Secure_App\node_modules\body-parser\lib\types\json.js:100:7)
+    at Layer.handleRequest (D:\Work\Express_Secure_App\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Work\Express_Secure_App\node_modules\router\index.js:342:13)
+    at D:\Work\Express_Secure_App\node_modules\router\index.js:297:9
+2025-05-31 23:49:02 info MongoDb connected successfully
+2025-05-31 23:49:05 error Redis client not ready for rate limiter.
+2025-05-31 23:49:06 error Redis client not ready for rate limiter.
+2025-06-01 00:03:24 info MongoDb connected successfully
+2025-06-01 00:04:33 info MongoDb connected successfully
+2025-06-01 00:06:33 info MongoDb connected successfully
+2025-06-01 00:11:49 info MongoDb connected successfully
+2025-06-01 00:15:18 info Calling setupApp to initialize connections...
+2025-06-01 00:15:18 info Attempting to connect to MongoDB...
+2025-06-01 00:15:18 info MongoDb connected successfully
+2025-06-01 00:15:18 info MongoDB connection attempted.
+2025-06-01 00:15:18 info Attempting to connect to Redis...
+2025-06-01 00:15:18 info Redis connection attempted.
+2025-06-01 00:15:18 info Database and Redis connections successfully established in setupApp.
+2025-06-01 00:15:18 info App setup completed without errors. (App instance received)
+2025-06-01 00:15:18 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 00:16:05 info Calling setupApp to initialize connections...
+2025-06-01 00:16:05 info Attempting to connect to MongoDB...
+2025-06-01 00:16:05 info MongoDb connected successfully
+2025-06-01 00:16:05 info MongoDB connection attempted.
+2025-06-01 00:16:05 info Attempting to connect to Redis...
+2025-06-01 00:16:05 info Redis connection attempted.
+2025-06-01 00:16:05 info Database and Redis connections successfully established in setupApp.
+2025-06-01 00:16:05 info App setup completed without errors. (App instance received)
+2025-06-01 00:16:05 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 00:18:40 info Calling setupApp to initialize connections...
+2025-06-01 00:18:40 info Attempting to connect to MongoDB...
+2025-06-01 00:18:40 info MongoDb connected successfully
+2025-06-01 00:28:47 info Calling setupApp to initialize connections...
+2025-06-01 00:28:47 info Attempting to connect to MongoDB...
+2025-06-01 00:28:47 info MongoDb connected successfully
+2025-06-01 00:32:09 info Calling setupApp to initialize connections...
+2025-06-01 00:32:09 info Attempting to connect to MongoDB...
+2025-06-01 00:32:09 info MongoDB connected successfully.
+2025-06-01 00:32:09 info MongoDB connection attempted.
+2025-06-01 00:32:09 info Database connections successfully established in setupApp.
+2025-06-01 00:32:09 info App setup completed without errors. (App instance received)
+2025-06-01 00:32:09 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 00:34:23 info Calling setupApp to initialize connections...
+2025-06-01 00:34:23 info Attempting to connect to MongoDB...
+2025-06-01 00:34:24 info MongoDB connected successfully.
+2025-06-01 00:34:24 info MongoDB connection attempted.
+2025-06-01 00:34:24 info Database connections successfully established in setupApp.
+2025-06-01 00:34:24 info App setup completed without errors. (App instance received)
+2025-06-01 00:34:24 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 00:34:24 info Server is running on port 3000
+2025-06-01 00:40:09 info Calling setupApp to initialize connections...
+2025-06-01 00:40:09 info Attempting to connect to MongoDB...
+2025-06-01 00:40:09 info MongoDB connected successfully.
+2025-06-01 00:40:58 info Calling setupApp to initialize connections...
+2025-06-01 00:40:58 info Attempting to connect to MongoDB...
+2025-06-01 00:40:58 info MongoDB connected successfully.
+2025-06-01 00:44:01 info Calling setupApp to initialize connections...
+2025-06-01 00:44:01 info Attempting to connect to MongoDB...
+2025-06-01 00:44:01 info MongoDB connected successfully.
+2025-06-01 00:44:57 info Calling setupApp to initialize connections...
+2025-06-01 00:44:57 info Attempting to connect to MongoDB...
+2025-06-01 00:44:57 info MongoDB connected successfully.
+2025-06-01 00:46:41 info Calling setupApp to initialize connections...
+2025-06-01 00:46:41 info Attempting to connect to MongoDB...
+2025-06-01 00:46:41 info MongoDB connected successfully.
+2025-06-01 00:51:41 info Calling setupApp to initialize connections...
+2025-06-01 00:51:41 info Attempting to connect to MongoDB...
+2025-06-01 00:51:41 info MongoDB connected successfully.
+2025-06-01 01:11:44 info Calling setupApp to initialize connections...
+2025-06-01 01:11:44 info Attempting to connect to MongoDB...
+2025-06-01 01:11:44 info MongoDB connected successfully.
+2025-06-01 01:12:10 info Calling setupApp to initialize connections...
+2025-06-01 01:12:10 info Attempting to connect to MongoDB...
+2025-06-01 01:12:10 info MongoDB connected successfully.
+2025-06-01 01:12:10 info MongoDB connection attempted.
+2025-06-01 01:12:10 info Database connections successfully established in setupApp.
+2025-06-01 01:12:10 info App setup completed without errors. (App instance received)
+2025-06-01 01:12:10 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 01:12:10 info Server is running on port 3000
+2025-06-01 01:12:10 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 01:14:59 info Contact form submission from bad@example.com: Malicious User - Hello, this is a test with some <script>alert('XSS')</script> and SQL'injection -- comments
+2025-06-01 01:16:17 info IP Blacklist: Loaded 1 IPs into cache.
+2025-06-01 01:16:17 info IP Blacklist: Added 127.0.0.1 to blacklist.
+2025-06-01 01:18:44 info Access to /api/public from IP: ::1
+2025-06-01 01:19:09 info Contact form submission from bad@example.com: Malicious User - Hello, this is a test with some <script>alert('XSS')</script> and SQL'injection -- comments
+2025-06-01 01:19:58 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 01:19:58 info IP Blacklist: Removed 127.0.0.1 from blacklist.
+2025-06-01 01:21:32 info IP Blacklist: Loaded 1 IPs into cache.
+2025-06-01 01:21:32 info IP Blacklist: Added 127.0.0.1 to blacklist.
+2025-06-01 01:21:48 info Access to /api/public from IP: ::1
+2025-06-01 01:22:18 info IP Blacklist: Loaded 2 IPs into cache.
+2025-06-01 01:22:18 info IP Blacklist: Added ::1 to blacklist.
+2025-06-01 01:22:22 warn IP Blacklist: Blocked request from blacklisted IP ::1 to /api/admin/blacklist
+2025-06-01 01:23:04 warn IP Blacklist: Blocked request from blacklisted IP ::1 to /api/admin/blacklist
+2025-06-01 01:23:05 warn IP Blacklist: Blocked request from blacklisted IP ::1 to /api/admin/blacklist
+2025-06-01 01:23:12 info Calling setupApp to initialize connections...
+2025-06-01 01:23:12 info Attempting to connect to MongoDB...
+2025-06-01 01:23:12 info MongoDB connected successfully.
+2025-06-01 01:23:12 info MongoDB connection attempted.
+2025-06-01 01:23:12 info Database connections successfully established in setupApp.
+2025-06-01 01:23:12 info App setup completed without errors. (App instance received)
+2025-06-01 01:23:12 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 01:23:12 info Server is running on port 3000
+2025-06-01 01:23:12 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 01:23:24 info Access to /api/public from IP: ::1
+2025-06-01 01:32:04 info Calling setupApp to initialize connections...
+2025-06-01 01:32:04 info Attempting to connect to MongoDB...
+2025-06-01 01:32:04 info MongoDB connected successfully.
+2025-06-01 01:32:04 info MongoDB connection attempted.
+2025-06-01 01:32:04 info Database connections successfully established in setupApp.
+2025-06-01 01:32:04 info App setup completed without errors. (App instance received)
+2025-06-01 01:32:04 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 01:32:04 info Server is running on port 3000
+2025-06-01 01:32:04 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 01:33:20 info Access to /api/public from IP: ::1
+2025-06-01 01:33:23 warn Unauthorized access attempt to admin route from IP: ::1
+2025-06-01 01:33:55 warn Unauthorized access attempt to admin route from IP: ::1
+2025-06-01 01:34:13 info IP Blacklist: Loaded 1 IPs into cache.
+2025-06-01 01:34:13 info IP Blacklist: Added ::1 to blacklist.
+2025-06-01 01:35:54 warn IP Blacklist: Blocked request from blacklisted IP ::1 to /api/admin/blacklist/remove
+2025-06-01 01:36:18 info Calling setupApp to initialize connections...
+2025-06-01 01:36:18 info Attempting to connect to MongoDB...
+2025-06-01 01:36:18 info MongoDB connected successfully.
+2025-06-01 01:36:18 info MongoDB connection attempted.
+2025-06-01 01:36:18 info Database connections successfully established in setupApp.
+2025-06-01 01:36:18 info App setup completed without errors. (App instance received)
+2025-06-01 01:36:18 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 01:36:18 info Server is running on port 3000
+2025-06-01 01:36:18 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 01:36:22 warn Unauthorized access attempt to admin route from IP: ::1
+2025-06-01 01:37:30 info Access to /api/public from IP: ::1
+2025-06-01 01:58:20 info Calling setupApp to initialize connections...
+2025-06-01 01:58:20 info Attempting to connect to MongoDB...
+2025-06-01 01:58:20 info MongoDB connected successfully.
+2025-06-01 01:59:24 info Calling setupApp to initialize connections...
+2025-06-01 01:59:24 info Attempting to connect to MongoDB...
+2025-06-01 01:59:24 info MongoDB connected successfully.
+2025-06-01 02:01:24 info Calling setupApp to initialize connections...
+2025-06-01 02:01:24 info Attempting to connect to MongoDB...
+2025-06-01 02:01:24 info MongoDB connected successfully.
+2025-06-01 02:01:24 info MongoDB connection attempted.
+2025-06-01 02:01:24 info Database connections successfully established in setupApp.
+2025-06-01 02:01:24 info App setup completed without errors. (App instance received)
+2025-06-01 02:01:24 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 02:01:24 info Server is running on port 3000
+2025-06-01 02:01:24 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 02:01:46 error Error: misconfigured csrf
+2025-06-01 02:02:57 error Error: misconfigured csrf
+2025-06-01 02:07:58 info Calling setupApp to initialize connections...
+2025-06-01 02:07:58 info Attempting to connect to MongoDB...
+2025-06-01 02:07:58 info MongoDB connected successfully.
+2025-06-01 02:07:58 info MongoDB connection attempted.
+2025-06-01 02:07:58 info Database connections successfully established in setupApp.
+2025-06-01 02:07:58 info App setup completed without errors. (App instance received)
+2025-06-01 02:07:58 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 02:07:58 info Server is running on port 3000
+2025-06-01 02:07:58 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 02:09:30 warn CSRF token invalid or missing from IP: ::1
+2025-06-01 02:10:01 warn CSRF token invalid or missing from IP: ::1
+2025-06-01 02:10:17 warn CSRF token invalid or missing from IP: ::1
+2025-06-01 02:12:15 warn CSRF token invalid or missing from IP: ::1
+2025-06-01 02:13:53 info Calling setupApp to initialize connections...
+2025-06-01 02:13:53 info Attempting to connect to MongoDB...
+2025-06-01 02:13:53 info MongoDB connected successfully.
+2025-06-01 02:13:53 info MongoDB connection attempted.
+2025-06-01 02:13:53 info Database connections successfully established in setupApp.
+2025-06-01 02:13:53 info App setup completed without errors. (App instance received)
+2025-06-01 02:13:53 info Server configuration complete. If no further errors, manually exit process for now.
+2025-06-01 02:13:53 info Server is running on port 3000
+2025-06-01 02:13:53 info IP Blacklist: Loaded 0 IPs into cache.
+2025-06-01 02:13:58 warn CSRF token invalid or missing from IP: ::1
+2025-06-01 02:14:20 warn CSRF token invalid or missing from IP: ::1
